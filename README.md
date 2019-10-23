@@ -1,2 +1,2 @@
 # TestRepos
-In this repository you can see different translations of Hello World :)
+В этом репозитории вы можете увидеть различные переводы Hello World :)
