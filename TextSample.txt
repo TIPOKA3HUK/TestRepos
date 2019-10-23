@@ -4,3 +4,4 @@ Kaixo mundua
 Hello te ao
 
 Здравствуйте, господа!
+Olá, Mundo!
